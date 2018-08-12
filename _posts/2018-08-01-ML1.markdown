@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "ML 1일차"
+date:   2018-08-02
+author: ohsing
+categories: ML 
+# tags: lorem ipsum
+---
+
+## ML 공부 계획 작성 및 파이썬 기본기 이해
+
+### ML 공부 목적
+- Machine Learning 기법에 대한 복습 및 정리
+- 실습을 통하여 실제 기법을 적용하는 연습하기
+- Machine Learning 실습을 위한 언어 python에 대한 감 익히기
+- 매일 정리하여 개인 저장소에 공유하는 것이 목표
+
+### ML 공부 계획
+1. 도구 기본 세팅 + 파이썬 기본기
+2. 데이터처리 과정
+3. linear regression
+4. Ridge and lasso
+5. logistic regression
+6. logistic regression-exercise
+7. KNN and NB
+8. classification project
+9. clustering
+10. regression project
+
+### 도구 환경 구성
+<img src="/assets/images/system.png" title="System design">
+
+#### 📝 코드 링크 
+<a href="https://github.com/swon96/ML/tree/master/1%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EA%B8%B0%EB%B3%B8%EA%B8%B0">github.com/swon96/ML/1 파이썬 기본기</a>

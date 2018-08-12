@@ -4,15 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+<img src="{{ site.baseurl }}/assets/profile-placeholder.gif" title="Profile Picture" class="profile">
 
 
-[jekyll-organization]: https://github.com/jekyll
+- 전공 분야: 소프트웨어 공학(Software Engineering)
+- 공부 중✏️: Machine Learning, Software Visualization, Software Process
+- Github Repository: [github.com/swon96](https://github.com/swon96/ML)
