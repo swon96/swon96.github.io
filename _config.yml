@@ -54,7 +54,8 @@ descriptions:
   - cat: ML
     desc: "Machine Learning Studying"
 
-
+  - cat: Algorithm
+    desc: "Algorithm Studying"
 
 # Social icons and sharing options
 #
